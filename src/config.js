@@ -6,7 +6,7 @@ const dev = {
   },
   apiGateway: {
     REGION: "eu-west-1",
-    URL: "https://qzdo0e30w1.execute-api.eu-west-1.amazonaws.com/prod"
+    URL: "https://4glo2frd5b.execute-api.eu-west-1.amazonaws.com/dev"
   },
   cognito: {
     REGION: "eu-west-1",
